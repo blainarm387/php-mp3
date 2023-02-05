@@ -39,7 +39,7 @@ namespace falahati\PHPMP3 {
 		/**
 		 * MPEG Audio Version 2.5
 		 */
-		const Version_25	= 2.5;
+		const Version_25	= '2.5';
 
 		/**
 		 * MPEG Audio Profile 1
